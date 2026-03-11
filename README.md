@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/VoltAgent/voltagent">
+<a href="https://github.com/EdgeAgent/edge-agency">
 <img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/a6f310af-8fed-4766-9649-b190575b399d" />
 </a>
 
@@ -15,13 +15,13 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a href="https://github.com/VoltAgent/voltagent">
-  <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
+<a href="https://github.com/EdgeAgent/edge-agency">
+  <img alt="EDGE | AGENCY" src="https://cdn.edge-agency.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
 [![Skills Count](https://img.shields.io/badge/skills-5494-blue?style=flat-square)](#table-of-contents)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
-[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
+[![Last Update](https://img.shields.io/github/last-commit/EDGE | AGENCY/edge-agency-skills?label=Last%20update&style=flat-square)](https://github.com/EDGE | AGENCY/edge-agency-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
+[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.edge-agency.dev/discord)
 </div>
 
 <div align="center">
@@ -30,11 +30,11 @@
 </div>
 
 
-# Awesome OpenClaw Skills
+# EDGE | AGENCY Skills
 
-OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for OpenClaw use cases.
+EDGE | AGENT is a powerful AI agent that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for EDGE | AGENT use cases.
 
-Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
+Skills in this list are sourced from ClawHub (EDGE | AGENT's public skills registry) and categorized for easier discovery.
 
 ### Installation
 
@@ -63,7 +63,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ### Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,494 skills**. Here's what we filtered out:
+EDGE | AGENT's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,494 skills**. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
@@ -77,12 +77,12 @@ OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as 
 
 #### Want to add a skill?
 
-This list only includes skills that are **already published** in the `github.com/openclaw/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. 
+This list only includes skills that are **already published** in the `github.com/edge-agency/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the EDGE | AGENT skills repo yet, publish it there first. 
 
 Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the GitHub link (e.g. `https://github.com/openclaw/skills/tree/main/skills/steipete/slack`) in your PR description. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 
-## OpenClaw Ecosystem Tools🦞🦞
+## EDGE | AGENCY Ecosystem Tools🦞🦞
 
 <div align="center">
 
@@ -92,13 +92,13 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 <h3>🚀 Your Logo & Product Here 🚀</h3>
 
-<p><strong>Sponsor spots are for tools, platforms, and services built for the OpenClaw ecosystem</strong><br/>(hosting, deployment, model providers, dev tools, etc.)</p>
+<p><strong>Sponsor spots are for tools, platforms, and services built for the EDGE | AGENCY ecosystem</strong><br/>(hosting, deployment, model providers, dev tools, etc.)</p>
 
 <sub>📈 <strong>950K monthly views</strong> — the #1 most visited community resource after the official OpenClaw resource</sub>
 
 <br/>
 
-<a href="mailto:necati@voltagent.dev"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+<a href="mailto:necati@edge-agency.dev"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
 
 
-If you believe a skill in this list should be flagged or has a security concern, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review it.
+If you believe a skill in this list should be flagged or has a security concern, please [open an issue](https://github.com/EdgeAgent/edge-agency-skills/issues) so we can review it.
 
 
 ## Table of Contents
@@ -1253,7 +1253,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VoltAgent/awesome-openclaw-skills&type=Date)](https://star-history.com/#VoltAgent/awesome-openclaw-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EdgeAgent/edge-agency-skills&type=Date)](https://star-history.com/#EdgeAgent/edge-agency-skills&Date)
 
 ## 🤝 Contributing
 
