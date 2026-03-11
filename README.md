@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/EdgeAgent/edge-agency">
-<img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/a6f310af-8fed-4766-9649-b190575b399d" />
+<a href="https://github.com/EdgeAgent/edge-agency-skills">
+<img width="1500" height="500" alt="EDGE | AGENCY Skills" src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663081186339/pbGLzPKQJpXLsxSY.png" />
 </a>
 
 <br/>
@@ -14,19 +14,17 @@
     <br />
 </div>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a href="https://github.com/EdgeAgent/edge-agency">
-  <img alt="EDGE | AGENCY" src="https://cdn.edge-agency.dev/website/logo/logo-2-svg.svg" height="20" />
-</a> 
+<!-- Awesome badge removed -->
+<!-- Logo placeholder --> 
 
-[![Skills Count](https://img.shields.io/badge/skills-5494-blue?style=flat-square)](#table-of-contents)
-[![Last Update](https://img.shields.io/github/last-commit/EDGE | AGENCY/edge-agency-skills?label=Last%20update&style=flat-square)](https://github.com/EDGE | AGENCY/edge-agency-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
-[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.edge-agency.dev/discord)
+<!-- Skills count badge removed -->
+<!-- Last update badge removed -->
+<!-- Discord badge removed -->
 </div>
 
 <div align="center">
 
-[![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](https://x.com/nozmen)
+<!-- X badge removed -->
 </div>
 
 
@@ -98,7 +96,7 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 <br/>
 
-<a href="mailto:necati@edge-agency.dev"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+<!-- Sponsor badge removed -->
 
 </td>
 </tr>
@@ -1253,7 +1251,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EdgeAgent/edge-agency-skills&type=Date)](https://star-history.com/#EdgeAgent/edge-agency-skills&Date)
+<!-- Star history removed -->
 
 ## 🤝 Contributing
 
