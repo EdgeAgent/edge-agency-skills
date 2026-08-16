@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#07111f" />
+  <meta name="description" content="EDGE | AGENCY Skills — a searchable catalog of 5,484 agent capabilities across code, research, automation, data, media, and operations." />
+  <title>EDGE | AGENCY Skills — Agent Capability Index</title>
+  <link rel="icon" href="assets/skills-banner.png" type="image/png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="EDGE Agency Skills home">
+      <span class="brand-mark">E</span>
+      <span><strong>EDGE</strong><small>AGENCY SKILLS</small></span>
+    </a>
+    <nav class="nav-links" aria-label="Primary navigation">
+      <a href="#catalog">Catalog</a>
+      <a href="#method">Method</a>
+      <a href="https://github.com/EdgeAgent/edge-agency-skills" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+    </nav>
+    <a class="top-cta" href="https://github.com/EdgeAgent/edge-agency-skills" target="_blank" rel="noreferrer">View repository</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-art" role="img" aria-label="Electric blue capability network"></div>
+      <div class="hero-content">
+        <p class="eyebrow"><span class="pulse"></span> OPEN AGENT INFRASTRUCTURE / LIVE INDEX</p>
+        <h1>Find the capability<br /><em>before you build it.</em></h1>
+        <p class="hero-copy">A curated, searchable index of agent skills for the work that matters: shipping software, researching systems, automating operations, and extending what your agent can do.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#catalog">Explore the catalog <span>↓</span></a>
+          <a class="button button-quiet" href="https://github.com/EdgeAgent/edge-agency-skills/blob/master/CONTRIBUTING.md" target="_blank" rel="noreferrer">Contribute a skill <span>↗</span></a>
+        </div>
+      </div>
+      <div class="hero-proof" aria-label="Library statistics">
+        <div class="proof-card"><strong id="hero-total">5,484</strong><span>indexed skills</span></div>
+        <div class="proof-card"><strong id="hero-categories">30</strong><span>capability domains</span></div>
+        <div class="proof-card"><strong>01</strong><span>open source index</span></div>
+      </div>
+    </section>
+
+    <section class="signal-strip" aria-label="Library principles">
+      <div><span class="signal-number">01</span><strong>Discover</strong><p>Search by capability, not by hype.</p></div>
+      <div><span class="signal-number">02</span><strong>Inspect</strong><p>Follow every skill to its source.</p></div>
+      <div><span class="signal-number">03</span><strong>Deploy</strong><p>Compose skills into real workflows.</p></div>
+    </section>
+
+    <section class="catalog-section" id="catalog">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">THE CAPABILITY INDEX</p>
+          <h2>Search the full library.</h2>
+        </div>
+        <p class="section-note">Built for fast scanning. Every result links to its source definition.</p>
+      </div>
+      <div class="catalog-layout">
+        <aside class="filters" aria-label="Catalog filters">
+          <div class="filter-label">Filter by domain</div>
+          <div id="category-list" class="category-list"></div>
+          <div class="filter-footnote"><span class="dot"></span> Data generated from the repository catalog</div>
+        </aside>
+        <div class="results-panel">
+          <div class="search-row">
+            <label class="search-box" for="search-input">
+              <span class="search-icon">⌕</span>
+              <input id="search-input" type="search" placeholder="Search skills, tools, or capabilities…" autocomplete="off" />
+              <kbd>/</kbd>
+            </label>
+            <button id="clear-button" class="clear-button" type="button">Clear</button>
+          </div>
+          <div class="results-meta"><span id="result-count">Loading catalog…</span><span id="active-filter"></span></div>
+          <div id="skill-grid" class="skill-grid" aria-live="polite"></div>
+          <button id="load-more" class="load-more" type="button">Load more results <span>↓</span></button>
+          <div id="empty-state" class="empty-state" hidden><span class="empty-icon">⌁</span><h3>No capability found.</h3><p>Try a broader term or switch back to all domains.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="method-section" id="method">
+      <div class="method-art"><img src="assets/skill_distribution.png" alt="Skill distribution by category" loading="lazy" /></div>
+      <div class="method-copy">
+        <p class="eyebrow">WHY THIS INDEX EXISTS</p>
+        <h2>Less tab-hoarding.<br /><em>More capability.</em></h2>
+        <p>Agent work compounds when the right capability is discoverable at the right moment. EDGE | AGENCY Skills turns a sprawling ecosystem into a navigable surface—organized by the job a skill enables, with direct paths back to the implementation.</p>
+        <div class="method-list">
+          <div><span>↳</span><strong>Source-linked</strong><p>Each entry points to its upstream skill definition.</p></div>
+          <div><span>↳</span><strong>Composable</strong><p>Use domains as building blocks for larger agent systems.</p></div>
+          <div><span>↳</span><strong>Maintained in public</strong><p>Updates, corrections, and contributions happen in the open.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="closing-section">
+      <div><p class="eyebrow">THE NEXT MOVE</p><h2>Give your agent<br /><em>an unfair advantage.</em></h2></div>
+      <a class="button button-primary" href="https://github.com/EdgeAgent/edge-agency-skills" target="_blank" rel="noreferrer">Open on GitHub <span>↗</span></a>
+    </section>
+  </main>
+
+  <footer class="footer"><span>EDGE <b>|</b> AGENCY</span><span>Agent capability infrastructure, in the open.</span><a href="https://github.com/EdgeAgent/edge-agency-skills" target="_blank" rel="noreferrer">github.com/EdgeAgent/edge-agency-skills ↗</a></footer>
+  <script src="app.js" defer></script>
+</body>
+</html>
