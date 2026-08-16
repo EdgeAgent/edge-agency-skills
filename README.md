@@ -18,12 +18,25 @@
 
 ## 📊 The Agentic Skill Landscape
 
-Our library covers the entire spectrum of modern AI agent capabilities. We've filtered through over 13,000 community submissions to provide the most robust, high-impact skills for your stack.
+Our library covers the entire spectrum of modern AI agent capabilities. We've filtered through over 13,000 community submissions to provide the most robust, high-impact skills for your stack. Every skill is structured, validated, and ready for immediate deployment.
 
 <div align="center">
   <img src="assets/skill_distribution.png" alt="Skill Distribution Chart" width="85%"/>
   <p><em>Figure 1: Distribution of 5,490+ verified skills across core functional categories.</em></p>
 </div>
+
+---
+
+## 🌟 Featured High-Impact Skill Domains
+
+| Domain | Skill Count | Primary Focus & Capabilities |
+| :--- | :---: | :--- |
+| **Coding Agents & IDEs** | `1,222` | Autonomous code generation, refactoring, AST parsing, and multi-file debugging. |
+| **Web & Frontend Development** | `938` | React, Tailwind, full-stack prototyping, and automated UI testing. |
+| **DevOps & Cloud** | `409` | Docker, Kubernetes orchestration, CI/CD pipelines, and cloud infrastructure management. |
+| **Search & Research** | `350` | Academic paper retrieval, deep web search, and automated knowledge synthesis. |
+| **Browser Automation** | `335` | Web scraping, cross-browser testing, form submission, and end-to-end UI interaction. |
+| **Productivity & Tasks** | `206` | Calendar scheduling, task management, email triage, and workflow automation. |
 
 ---
 
